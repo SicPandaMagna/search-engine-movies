@@ -1,3 +1,5 @@
+# About
+
 This is a basic search engine for movies. Feel free to use it for any personal purpose.
 
 The goal is to practice handling API in a Node.js web app, including:

@@ -1,10 +1,10 @@
 This is a basic search engine for movies. Feel free to use it for any personal purpose.
 
 The goal is to practice handling API in a Node.js web app, including:
--make queries
--handle reponse time
--handle data
--state management
+-make queries<br>
+-handle reponse time<br>
+-handle data<br>
+-state management<br>
 
 I built this app to troll my friend Hollish, who wanted to make a similar web app for movies. You will find jokes hidden in the app for this purpose.
 

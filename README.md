@@ -6,7 +6,7 @@ The goal is to practice handling API in a Node.js web app, including:<br>
 -make queries<br>
 -handle reponse time<br>
 -handle data<br>
--state management<br>
+-states management<br>
 
 Also, I built this app to troll my friend Hollish, who wanted to make a similar web app. Sadly, we do not work together anymore (not b/c of this). You will find jokes hidden in the app for this purpose.
 
